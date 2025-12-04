@@ -4,7 +4,7 @@
 
 ---
 
-##**Project Overview**
+## **Project Overview**
 
 This project analyzes the lifecycle performance of two anonymized pop artists (**Artist A** and **Artist B**) using a custom-generated synthetic dataset modeled on real industry patterns. The goal is to measure not just streaming totals, but the **underlying behavioral dynamics** that determine whether an artist is a short-term spike or a long-term strategic asset.
 
@@ -109,7 +109,7 @@ Recency-weighted retention measure using first-stream-date data.
 
 ---
 
-##**Summary of Insights**
+## **Summary of Insights**
 
 * **Artist A** demonstrates strong launch momentum and high early acceleration but steep post-release decay. Catalog engagement is shallow and reliance on algorithmic listening is high. ROH is moderate, indicating inefficiency in converting social hype into streams.
 
