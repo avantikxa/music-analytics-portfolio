@@ -155,5 +155,4 @@ A complete narrative PDF summarizing:
 
 
 ----
-🔥 **Generate an ERD diagram image**
-🔥 **Create a short version for LinkedIn portfolio**
+
