@@ -122,21 +122,6 @@ These differences map to two distinct archetypes:
 
 Each requires different marketing, DSP, and promotional strategies.
 
----
-
-## 🖥 **Dashboards**
-
-Three dashboards built in Tableau:
-
-1. **Executive Pulse**
-   High-level KPIs, decay snapshots, and weekly performance.
-
-2. **Lifecycle Diagnostic**
-   Decay curves, velocity trends, and catalog engagement visuals.
-
-3. **Strategic Simulator**
-   An interactive model demonstrating how TikTok trends, ad spend, and radio impact projected revenue.
-
 
 ---
 
