@@ -35,7 +35,7 @@ These questions drive the KPI framework and SQL modeling throughout the project.
 ---
 
 
-## ⚙️ **Analytical SQL Models**
+##  **Analytical SQL Models**
 
 All major analytical logic is implemented as SQL views.
 These include:
@@ -83,7 +83,7 @@ Models onboarding and retention patterns.
 
 ---
 
-## 📈 **Key KPIs**
+## **Key KPIs**
 
 ### **Hype Half-Life**
 
