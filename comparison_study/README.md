@@ -125,7 +125,7 @@ Each requires different marketing, DSP, and promotional strategies.
 
 ---
 
-## 📘 **Full Report**
+## **Full Report**
 
 A complete narrative PDF summarizing:
 
